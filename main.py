@@ -17,4 +17,6 @@ if __name__ == '__main__':
     
     print_hi('Hello World 3 in team member B server')
 
+    print_hi('Hello World 4 in team member A')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
